@@ -1,0 +1,13 @@
+<html><head>
+	<title>Isósceles</title>
+</head>
+<body bgcolor="#CEF6F5">
+<h1><marquee>Triangulos</marquee>
+</h1><h1><center>Isósceles<br></center></h1>
+
+<b>Un equilátero es una figura que presenta todos los lados iguales entre sí. El término suele aplicarse a los triángulos de este tipo. Un triángulo equilátero, por lo tanto, es un polígono de tres lados idénticos, que presenta tres ángulos agudos e iguales a 60º.
+Cabe destacar que un triángulo es un polígono o figura que dispone de tres lados. Estos lados están compuestos por segmentos de distintas rectas que se encuentran en los puntos conocidos como vértices. Los triángulos cumplen con varias condiciones: la suma de lo que miden dos de sus lados, por ejemplo, siempre supera la longitud del lado restante.<br></b>
+
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAABcCAMAAADUMSJqAAAAZlBMVEX///8AAADGxsaurq74+Pjw8PD8/Pzm5uaXl5c0NDTq6urLy8tmZmbT09M6Ojp2dnaQkJCAgIBERETf39+2tradnZ2oqKiKiopeXl6/v79ubm4LCwtWVlYbGxsmJiY/Pz9MTEwtLS19FYXjAAAEd0lEQVRogbVZe7+yIAxmCXglRcRLptX3/5LvoKzeLkdU2h9Hf0o7Y3vYnk1Clgili5Yvk6b5nW4FoH6m/ABw+JVuAYcDiB8pP4NScP6N7gownA1Uv9DN4p7h3z5mP1CuoTaXGrR/3WG/5+bK9xB6V57D7nqzg9y3bgHZdJt5h+PxoVHA2a/u6mG4OaidT910D3DS1nahTwB7n9lRQyHhLrLwCcewjzmhuyI7HrNih1bHvT84ylcndyB96RbQvj5qvcHx+K5JwNGP7o8+ePPUOqH7Pnl/mvSxDzhqi7tdXWGqFUGAMBFSqilJbpNkGDEbFgFpCtRK6DGhOU0k4ePwYUMLxZaetETXpyTDxBhFDAuSpNfCtE2UhYUsmMJjFKNPdi3RjTS17riZZ1hA8zLfpYeEmcimmFeUdcgH+C+TnYUhj7E+1PlV+QMlcqof64SfbBLhJ3RDFbPRuKXk09up8q2UGiJ7zRF21YWU6KLgqcgVW+DIhuHqgx2WiqghESI+ezqZdBjX84wHAyrqKqeEyrQrnhdsgOMzd1Pq+XKX82o4ZpDOLUmfa+sSSV0ISj5vwEc5uWxZwWmN7gCK+UUGjsFy3WwcnRI2HVfA0dkixx0+ywJfOsXmPzm4J6V0aRe26AeHBXDMI0rKJVtVUBKqnVg7jaEslgWpgKYER3DpAZaduxRgiFwBWSCVbZzRy+xy19UhnETpnpEOUIqTcxdmeiteO0dU1dy9CxNr0qhrF7aqADgOBVYSeyfay4dhVdHFYj7PM6K1dGGiIX9I2F9WEh0ez8JxQ8cwG6xNvc6H3unl/QZarP62bGN/+bdPN7YiyTB8f6m39vR/KGAwbuHbKPwC306gh8b1a9C8TIDOX+DoZVjwpQvr/Ezd8o+EZ/QzL0xgfH/obdL5YSjA4OJpKEbf4Sj9TZerVzgaRuZNXrmg1xHqC31YzIL/lv+7sBhu2VDpGp+zusYIUNm6lFMe1BVioas1xrFqc2bgeHm8D6baKjKuBsrbhASaaEGieWfxTJC2I3VN2JmrhijDGp+qPIVpzHERhGnb6Sd70uC/mG8vDC8PQrLHE3johCbMQAVp+ATsZipPok86DHRUmAG/SjIpZ1MwLzuBFihjXtQQKTOLlHaivQoZcGlxH/QVLWpsLfD+hGTUgR2xvgnRmSJGMzSighmLWYkqr8kEYRjBxSiq8WxxSKzyvVvDlZiOMtfCsB19QyAbIbrB0c4Gajgby02QIW2sW9x6C2YOTJMpkzymtuhswnmdSlx5e2MAowarvDLbc/wcxM30qMn4BbEsrxCJrL9D08h2N9fbLzQYcwY03GNsXSdvGo1qK5KhnbF1cwh7+6LAbDWR2tSkG9UGLVrSySp35hi5blA/O1TNNfXJ2/GkyDPuLX5pvo6RGzyXpF/+309YP6XAAEg8rakdan8239B0j8MZkzviQofG9jQ/bSge1fIJzLSfN6ucz/pZ/+TS4C6XOJiT2GHJ5XFP4IdCdkskjhctn/XhUp+vFwe0rBe5rPH4B9N9NWWujER/AAAAAElFTkSuQmCC"><align="middle"><br>
+
+</body></html>
